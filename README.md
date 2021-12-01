@@ -15,6 +15,7 @@ O Diagrama de Classes abaixo utiliza o GOF no padrão Factory Method
 ![image](https://user-images.githubusercontent.com/73146109/144154429-99335df3-da5e-4e81-a9ff-9a428625fe82.png)
 
 ## Diagrama de Componente
+  No Diagrama de Componentes, amplia-se mais uma uma vez, agora mostrando o container com os componentes dentro dele utilizado.
 ![image](https://user-images.githubusercontent.com/73146109/144157855-a2c1727b-c405-4e3c-9b3c-894709346207.png)
 
 
