@@ -6,7 +6,7 @@ O sistema em desenvolvimento tem como objetivo permitir ao empregado de uma empr
 ![image](https://user-images.githubusercontent.com/73146109/138180433-a699170c-0568-4124-9c24-3c0eb2ba9477.png)
 
 ## Diagrama de Classes
-O Diagrama de Classes abaixo utiliza o GOF no padrão Factory Method
+O Diagrama de Classes abaixo utiliza o GOF no padrão Factory Method.
 ![image](https://user-images.githubusercontent.com/73146109/144165011-2feafecb-194c-4a2b-9fe9-38f4c419089f.png)
  
 ## Diagrama de Containers
