@@ -6,6 +6,9 @@ O sistema permite ao empregado solicitar EPI´s(Equipamento de Proteção Indivi
 ![image](https://user-images.githubusercontent.com/73146109/138179993-837cb0ec-8a43-40bb-8802-8d284421db0f.png)
 ## Diagrama de Containers
 ![image](https://user-images.githubusercontent.com/73146109/144154429-99335df3-da5e-4e81-a9ff-9a428625fe82.png)
+## Diagrama de Componente
+![image](https://user-images.githubusercontent.com/73146109/144157855-a2c1727b-c405-4e3c-9b3c-894709346207.png)
+
 
 
 
