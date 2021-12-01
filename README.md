@@ -1,5 +1,5 @@
 # EPIsControlSystem
-O sistema em desenvolvimento permite ao empregado solicitar EPI´s(Equipamento de Proteção Individual) e ao empregado com cargo de TST(Técnico de Segurança do Trabalho) fazer a análise da solicitação, podendo esta ser aprovada ou reprovada. Além disso, o TST também realiza o cadastro com de novos lotes de EPIs atualizando o estoque. 
+O sistema em desenvolvimento tem como objetivo permitir ao empregado de uma empresa solicitar EPI´s(Equipamento de Proteção Individual) e ao empregado com cargo de TST(Técnico de Segurança do Trabalho) fazer a análise da solicitação, podendo esta ser aprovada ou reprovada. Além disso, o TST também realiza o cadastro com de novos lotes de EPIs atualizando o estoque. 
 ## Diagrama de Contexto
 ![image](https://user-images.githubusercontent.com/73146109/138180433-a699170c-0568-4124-9c24-3c0eb2ba9477.png)
 ## Diagrama de Classes
